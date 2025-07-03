@@ -1,0 +1,66 @@
+[
+    {
+        "category": "Pepi",
+        "settings": [
+            {
+                "type": 6,
+                "name": "PepiEnabled",
+                "value": false
+            },
+            {
+                "type": 6,
+                "name": "DebugMode",
+                "value": true
+            },
+            {
+                "type": 6,
+                "name": "RenderRingThroughWall",
+                "value": true
+            },
+            {
+                "type": 6,
+                "name": "DisableRingRendering",
+                "value": false
+            },
+            {
+                "type": 2,
+                "name": "PepiCommands"
+            },
+            {
+                "type": 6,
+                "name": "BonzoTriggerbot",
+                "value": false
+            }
+        ]
+    },
+    {
+        "category": "Leap",
+        "settings": [
+            {
+                "type": 6,
+                "name": "FastLeapEnabled",
+                "value": false
+            },
+            {
+                "type": 4,
+                "name": "S1Leap",
+                "value": ""
+            },
+            {
+                "type": 4,
+                "name": "S2Leap",
+                "value": ""
+            },
+            {
+                "type": 4,
+                "name": "S3Leap",
+                "value": ""
+            },
+            {
+                "type": 4,
+                "name": "S4Leap",
+                "value": ""
+            }
+        ]
+    }
+]
